@@ -1,0 +1,27 @@
+{
+  "name": "hackathon-graphql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcells/hackathon-graphql-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcells/hackathon-graphql-js/issues"
+  },
+  "homepage": "https://github.com/marcells/hackathon-graphql-js#readme",
+  "dependencies": {
+    "apollo-server": "^2.6.2",
+    "apollo-server-express": "^2.6.2",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-graphql": "^0.8.0",
+    "graphql": "^14.3.1"
+  }
+}
